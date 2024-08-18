@@ -2,6 +2,9 @@
 
 A fun car racing game built with **HTML**, **CSS**, and **JavaScript**. Navigate your car to avoid obstacles and score points as you go!
 
+![cargame](https://github.com/user-attachments/assets/0955c34f-d22b-4865-86d6-b705d757f1c0)
+
+
 ## Features
 
 - **Dynamic Gameplay:** Control your car to dodge obstacles and earn points.
